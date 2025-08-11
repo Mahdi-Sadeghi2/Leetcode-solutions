@@ -2,8 +2,6 @@
 
 from collections import deque
 
-from collections import deque
-
 
 def floodFill(image, sr, sc, color):
     # Store the original color of the starting pixel
